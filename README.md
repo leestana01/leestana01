@@ -39,6 +39,10 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+- **Server:**
+![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Physical Server](https://img.shields.io/badge/My%20Local%20Physical%20Server-007396?style=for-the-badge&logo=server&logoColor=white)
 
 (Things to Study)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -48,13 +52,10 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-ffffff?style=for-the-badge&logo=websockets&logoColor=black)
 
 ### 👀 Interests
-- Cloud Services (
-![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ,
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) , ...
-)
-
+- Cloud Services
 - **RESTful API** Design and Implementation
 - Continuous Learning and Acquiring New Technologies
+  
   (Being at an undergraduate level, I'm planning to study all aspects(Front, ServerSide, ...) without discrimination)
   
 
