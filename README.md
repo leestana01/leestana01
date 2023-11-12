@@ -1,8 +1,24 @@
-# Leestana01 (Nickname: 트리어스, Turious) 👋
-
-### 📫 Contact Information
+### 📫 Information
+- Nickname : leestana01, turious(트리어스)
 - e-mail: leestana01@naver.com
 - Blog: https://velog.io/@leestana01
+
+### 📜 Activities
+- 멋쟁이사자처럼 11th (2023.3 ~ )
+- Hackerthones
+  - 멋쟁이사자처럼 중앙 해커톤 (2023.08.18 ~ 2023.08.19)
+  - 경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15)
+    - [결선 진출] 경기 메타버스 해커톤 (2023.10.18 ~ 2023.10.20)
+  - 간지톤(미르톤) - 대학연합해커톤 (2023.11.11 ~ 2023.11.12)
+- Team Projects
+
+| Project | Link | Description | Role |
+| ------------ | ---- | ---- | ---- |
+| 버스언제와 | [Shortcut](https://github.com/hufslion11th/6team_mini_project) | Club '멋쟁이사자처럼' - 6team Project | |
+| HUFS 빈강의실 찾기 | [Shortcut](https://github.com/leestana01/OSS-6team) | 'Open Source Software and Practice' - Final Exam Project | **Leader** |
+| 폰똑 | [Shortcut](https://github.com/leestana01/PhoneDdok) | Hackerthone - 중앙 해커톤 |  |
+| MZARAR(엠잘알) | [Shortcut](https://github.com/leestana01/MZ-AR-AR_Refactoring) | Hackerthone - 경기 메타버스 해커톤 | **Leader** |
+| 그린드라이드 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackerthone - 간지톤(미르톤) | **Leader** |
 
 ## Stack Info
 
@@ -40,23 +56,7 @@
 - **RESTful API** Design and Implementation
 - Continuous Learning and Acquiring New Technologies
   (Being at an undergraduate level, I'm planning to study all aspects(Front, ServerSide, ...) without discrimination)
-
-### 📜 Activities
-- 멋쟁이사자처럼 11th (2023.3 ~ )
-- Hackerthones
-  - 멋쟁이사자처럼 중앙 해커톤 (2023.08.18 ~ 2023.08.19)
-  - 경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15)
-    - [결선 진출] 경기 메타버스 해커톤 (2023.10.18 ~ 2023.10.20)
-  - 간지톤(미르톤) - 대학연합해커톤 (2023.11.11 ~ 2023.11.12)
-- Team Projects
-
-| Project | Link | Description | Role |
-| ------------ | ---- | ---- | ---- |
-| HUFS 빈강의실 찾기 | [Shortcut](https://github.com/leestana01/OSS-6team) | 'Open Source Software and Practice' - Final Exam Project | **Leader** |
-| 폰똑 | [Shortcut](https://github.com/leestana01/PhoneDdok) | Hackerthone - 중앙 해커톤 |  |
-| MZARAR(엠잘알) | [Shortcut](https://github.com/leestana01/MZ-AR-AR_Refactoring) | Hackerthone - 경기 메타버스 해커톤 | **Leader** |
-| 그린드라이드 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackerthone - 간지톤(미르톤) | **Leader** |
-
+  
 
 <!--
 ### 📈 GitHub Stats
