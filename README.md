@@ -18,7 +18,7 @@
 | HUFS 빈강의실 찾기 | [Shortcut](https://github.com/leestana01/OSS-6team) | 'Open Source Software and Practice' - Final Exam Project | **Leader** |
 | 폰똑 | [Shortcut](https://github.com/leestana01/PhoneDdok) | Hackathon - 중앙 해커톤 |  |
 | MZARAR(엠잘알) | [Shortcut](https://github.com/leestana01/MZ-AR-AR_Refactoring) | Hackathon - 경기 메타버스 해커톤 | **Leader** |
-| 그린드라이드 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackathon - 간지톤(미르톤) | **Leader** |
+| 그린드라이브브 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackathon - 간지톤(미르톤) | **Leader** |
 
 ## 🚀 Stack Info 
 
@@ -35,10 +35,11 @@ However, my approach to learning and development is like below:
     - Ensuring quick and efficient implementation of familiar tech stacks through repeated learning.
 
 - **Undergraduate Studies: Diverse Learning**
-  - Advocating for a broad learning spectrum.
-    - Beyond back-end, exploring diverse tech domains.
-  - Blending various study areas for a comprehensive tech understanding.
-  - Comprehending operational flow and system interconnectivity.
+  - **Advocating for a broad learning spectrum**
+    - Beyond back-end, exploring diverse tech domains
+  - **Blending various study areas**
+    - for a comprehensive tech understanding
+  - **Comprehending operational flow and system interconnectivity**
 
 ---
 
