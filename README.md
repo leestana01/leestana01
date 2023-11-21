@@ -22,31 +22,6 @@
 
 ## 🚀 Stack Info 
 
-My Main Position : BACK-END Developer
-
-However, my approach to learning and development is like below:
-
-- **Back-End Development Focus**
-  - **Optimization of Algorithms**
-    - Focusing on saving time and memory through algorithm optimization.
-  - **Diverse Technical Trials**
-    - Engaging in various technical experiments.
-  - **Repetitive Learning of Tried Tech Stacks**
-    - Ensuring quick and efficient implementation of familiar tech stacks through repeated learning.
-
-- **Undergraduate Studies: Diverse Learning**
-  - **Advocating for a broad learning spectrum**
-    - Beyond back-end, exploring diverse tech domains
-  - **Blending various study areas**
-    - for a comprehensive tech understanding
-  - **Comprehending operational flow and system interconnectivity**
-
----
-
-<p align="center"><strong><em>"Technology: Where versatility meets expertise."</em></strong></p>
-
----
-
 ### 🛠️ Technical Stack
 - **Server Side:**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -74,6 +49,33 @@ However, my approach to learning and development is like below:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-ffffff?style=for-the-badge&logo=websockets&logoColor=black)
+
+---
+
+My Main Position : BACK-END Developer
+
+However, my approach to learning and development is like below:
+
+- **Back-End Development Focus**
+  - **Optimization of Algorithms**
+    - Focusing on saving time and memory through algorithm optimization.
+  - **Diverse Technical Trials**
+    - Engaging in various technical experiments.
+  - **Repetitive Learning of Tried Tech Stacks**
+    - Ensuring quick and efficient implementation of familiar tech stacks through repeated learning.
+
+- **Undergraduate Studies: Diverse Learning**
+  - **Advocating for a broad learning spectrum**
+    - Beyond back-end, exploring diverse tech domains
+  - **Blending various study areas**
+    - for a comprehensive tech understanding
+  - **Comprehending operational flow and system interconnectivity**
+
+---
+
+<p align="center"><strong><em>"Technology: Where versatility meets expertise."</em></strong></p>
+
+---
 
 ### 👀 Interests
 - Enjoying assembling teams and engaging in various team projects, such as hackathons
