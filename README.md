@@ -3,6 +3,8 @@
 - e-mail: leestana01@naver.com
 - Blog: https://velog.io/@leestana01
 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leestana01)](https://velog.io/@leestana01)
+
 ### 📜 Activities
 - 멋쟁이사자처럼 11th (2023.3 ~ )
 - Hackathons
@@ -18,7 +20,7 @@
 | HUFS 빈강의실 찾기 | [Shortcut](https://github.com/leestana01/OSS-6team) | 'Open Source Software and Practice' - Final Exam Project | **Leader** |
 | 폰똑 | [Shortcut](https://github.com/leestana01/PhoneDdok) | Hackathon - 중앙 해커톤 |  |
 | MZARAR(엠잘알) | [Shortcut](https://github.com/leestana01/MZ-AR-AR_Refactoring) | Hackathon - 경기 메타버스 해커톤 | **Leader** |
-| 그린드라이브브 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackathon - 간지톤(미르톤) | **Leader** |
+| 그린드라이브 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackathon - 간지톤(미르톤) | **Leader** |
 
 ## 🚀 Stack Info 
 
@@ -84,7 +86,6 @@ However, my approach to learning and development is like below:
 - Continuous Learning and Acquiring New Technologies
   
   (Being at an undergraduate level, I'm planning to study all aspects(Front, ServerSide, ...) without discrimination)
-  
 
 <!--
 ### 📈 GitHub Stats
