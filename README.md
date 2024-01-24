@@ -6,7 +6,9 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leestana01)](https://velog.io/@leestana01)
 
 ### 📜 Activities
-- 멋쟁이사자처럼 11th (2023.3 ~ )
+- 멋쟁이사자처럼(LikeLion)
+  - 11th (2023.3 ~ 2023.11)
+  - 12th (2023.11 ~)
 - Hackathons
   - 멋쟁이사자처럼 중앙 해커톤 (2023.08.18 ~ 2023.08.19)
   - 경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15)
