@@ -12,8 +12,14 @@
   - 경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15)
     - [결선 진출] 경기 메타버스 해커톤 (2023.10.18 ~ 2023.10.20)
   - 간지톤(미르톤) - 대학연합해커톤 (2023.11.11 ~ 2023.11.12)
-- Team Projects
+  - 프로메테우스 해커톤 (2024-01-22 ~ 2024-01-28)
+- [Simplify-React-App](https://github.com/leestana01/Simplify-React-App)
+  - Use ```npx simplify-react-app``` instead of ```npx create-react-app```
+    - It also supports other settings like ```npx simplify-react-app -v styled-components```
 
+<!--
+
+- Team Projects
 | Project | Link | Description | Role |
 | ------------ | ---- | ---- | ---- |
 | 버스언제와 | [Shortcut](https://github.com/hufslion11th/6team_mini_project) | Club '멋쟁이사자처럼' - 6team Project | |
@@ -21,6 +27,9 @@
 | 폰똑 | [Shortcut](https://github.com/leestana01/PhoneDdok) | Hackathon - 중앙 해커톤 |  |
 | MZARAR(엠잘알) | [Shortcut](https://github.com/leestana01/MZ-AR-AR_Refactoring) | Hackathon - 경기 메타버스 해커톤 | **Leader** |
 | 그린드라이브 | [Shortcut](https://github.com/leestana01/greendrive_back) | Hackathon - 간지톤(미르톤) | **Leader** |
+| TatooYou(타투유) | [Shortcut_Front](https://github.com/leestana01/tattooyou_front) [Shortcut_Back](https://github.com/leestana01/tattooyou_back) | Club '멋쟁이사자처럼' - 1team Project| **Leader**|
+| WelcomeKit_LikeLion(멋사 웰컴키) | [Shortcut_Front](https://github.com/leestana01/WelcomKit_LikeLion) [Shortcut_Back](https://github.com/leestana01/WelcomKit_LikeLion_Back) | Club '멋쟁이사자처럼' - 1team Project| **Leader**|
+-->
 
 ## 🚀 Stack Info 
 
