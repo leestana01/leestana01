@@ -1,9 +1,7 @@
 ### 📫 Information
 - Nickname : leestana01, turious(트리어스)
 - e-mail: leestana01@naver.com
-- Blog: https://velog.io/@leestana01
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leestana01)](https://velog.io/@leestana01)
+- Blog(Notion): http://leestana01.klr.kr
 
 ### 📜 Activities
 - 멋쟁이사자처럼(LikeLion)
