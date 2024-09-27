@@ -32,6 +32,7 @@
 | TatooYou(타투유) | [Shortcut_Front](https://github.com/leestana01/tattooyou_front) [Shortcut_Back](https://github.com/leestana01/tattooyou_back) | Club '멋쟁이사자처럼' - 1team Project| **Leader**|
 | WelcomeKit_LikeLion(멋사 웰컴키트) | [Shortcut_Front](https://github.com/leestana01/WelcomKit_LikeLion) [Shortcut_Back](https://github.com/leestana01/WelcomKit_LikeLion_Back) | | **Leader**|
 | 4CutsDiary(네컷일기) | [Shortcut_Front](https://github.com/hufslion-12th/team2-front) [Shortcut_Back](https://github.com/hufslion-12th/team2-back) | Club '멋쟁이사자처럼' - 2team Project| **Leader**|
+| RunWithMate | [Shortcut_Front](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/FE) [Shortcut_Back](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/BE) | Club '멋쟁이사자처럼' - 7team Project| Deputy Leader|
 
 
 ## 🚀 Stack Info 
@@ -42,6 +43,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-ffffff?style=for-the-badge&logo=websockets&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 - **Database:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![H2 Database](https://img.shields.io/badge/H2_Database-ffffff?style=for-the-badge&logo=h2&logoColor=black)
@@ -50,6 +52,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 - **Server:**
 ![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -63,8 +66,6 @@
 
 <!--
 (Things to Study)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 -->
 
