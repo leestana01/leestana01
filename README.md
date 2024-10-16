@@ -9,6 +9,8 @@
   - 12th (2023.11 ~)
 - 소프트웨어 마에스트로(SW Maestro)
   - 15th (2024.4 ~)
+- GDG(Google Developer Groups) on Campus HUFS
+  - 6th (2024.09 ~)
 - Hackathons
   - 멋쟁이사자처럼 중앙 해커톤 (2023.08.18 ~ 2023.08.19)
   - 경기 메타버스 해커톤 (2023.09.13 ~ 2023.09.15)
