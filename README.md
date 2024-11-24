@@ -39,7 +39,7 @@
 | WelcomeKit_LikeLion<br/>(멋사 웰컴키트) | [Shortcut_Front](https://github.com/leestana01/WelcomKit_LikeLion) [Shortcut_Back](https://github.com/leestana01/WelcomKit_LikeLion_Back) | | **Leader**|
 | 4CutsDiary(네컷일기) | [Shortcut_Front](https://github.com/hufslion-12th/team2-front) [Shortcut_Back](https://github.com/hufslion-12th/team2-back) | Club '멋쟁이사자처럼' - 2team Project| **Leader**|
 | RunWithMate | [Shortcut_Front](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/FE) [Shortcut_Back](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/BE) | Club '멋쟁이사자처럼' - 7team Project| Deputy Leader|
-| Movis(모비스) | [Shortcut_Front_Web](https://github.com/leestana01/tattooyou_front)<br/>[Shortcut_Back](https://github.com/swm-backstage/movis-backend)<br/>[Shortcut_Lambda_batch](https://github.com/swm-backstage/movis-batch)<br/>[Shortcut_Lambda_excel](https://github.com/swm-backstage/movis-excel)| Software Maestro (소프트웨어 마에스트로)| |
+| Movis(모비스) | [Shortcut_Front_Web](https://github.com/swm-backstage/movis-web)<br/>[Shortcut_Back](https://github.com/swm-backstage/movis-backend)<br/>[Shortcut_Lambda_batch](https://github.com/swm-backstage/movis-batch)<br/>[Shortcut_Lambda_excel](https://github.com/swm-backstage/movis-excel)| Software Maestro (소프트웨어 마에스트로)| |
 
 ## 🚀 Stack Info 
 
