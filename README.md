@@ -6,9 +6,9 @@
 ### 📜 Activities
 - 멋쟁이사자처럼(LikeLion)
   - 11th (2023.3 ~ 2023.11)
-  - 12th (2023.11 ~)
+  - 12th (2023.11 ~ 2024.11)
 - 소프트웨어 마에스트로(SW Maestro)
-  - 15th (2024.4 ~)
+  - 15th (2024.4 ~ 2024.11)
 - GDG(Google Developer Groups) on Campus HUFS
   - 6th (2024.09 ~)
 - Hackathons
