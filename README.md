@@ -29,6 +29,7 @@
 - HUFS Code Festival (코드 알고리즘 대회) - 동상
 - HUFSTHON 2024 - 최우수상
 - HUFS Global 멋쟁이사자처럼 12기 미니프로젝트 경진대회 - 최우수상
+- HUFS CHALLKATHON - 우수상
 
 ### 👥 Team Projects
 
