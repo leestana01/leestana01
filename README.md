@@ -38,6 +38,7 @@
 - HUFS Global 멋쟁이사자처럼 12기 미니프로젝트 경진대회 - 최우수상
 - HUFS CHALLKATHON - 우수상
 
+<!--
 ### 👥 Team Projects
 
 | Project | Link | Description | Role |
@@ -52,6 +53,8 @@
 | 4CutsDiary(네컷일기) | [Shortcut_Front](https://github.com/hufslion-12th/team2-front) [Shortcut_Back](https://github.com/hufslion-12th/team2-back) | Club '멋쟁이사자처럼' - 2team Project| **Leader**|
 | RunWithMate | [Shortcut_Front](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/FE) [Shortcut_Back](https://github.com/Likelion12th-HufsGlobal-Hackathon-team7/BE) | Club '멋쟁이사자처럼' - 7team Project| Deputy Leader|
 | Movis(모비스) | [Shortcut_Front_Web](https://github.com/swm-backstage/movis-web)<br/>[Shortcut_Back](https://github.com/swm-backstage/movis-backend)<br/>[Shortcut_Lambda_batch](https://github.com/swm-backstage/movis-batch)<br/>[Shortcut_Lambda_excel](https://github.com/swm-backstage/movis-excel)| Software Maestro (소프트웨어 마에스트로)| |
+
+-->
 
 ## 🚀 Stack Info 
 
