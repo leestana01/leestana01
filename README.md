@@ -42,6 +42,7 @@
 - HUFS CHALLKATHON - 우수상 _ 25.06.27
 - 제19회 Better World 아이디어 공작소 - 대상 _ 25.07.04 ~ 25.08.01
 - 2025 HUFS Code Festival (코드 알고리즘 대회) - 동상 _ 25.11.28
+- 신한 스퀘어브릿지 청년 해커톤 - 혁신상 _ 26.02.12
 
 <!--
 ### 👥 Team Projects
