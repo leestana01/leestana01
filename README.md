@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/14c2ae7e-f520-4206-b0ec-b4adc71707db" />
+
 ### 📫 Information
 - Nickname : leestana01, turious(트리어스)
 - e-mail: leestana01@naver.com
