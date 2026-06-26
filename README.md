@@ -3,7 +3,8 @@
 ### 📫 Information
 - Nickname : leestana01, turious(트리어스)
 - e-mail: leestana01@naver.com
-- Blog(Notion): http://leestana01.klr.kr
+- LinkedIn : www.linkedin.com/in/leestana01
+- Blog(Notion): https://leestana01.tistory.com
 
 ### 📜 Activities
 - 멋쟁이사자처럼(LikeLion)
