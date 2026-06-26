@@ -1,4 +1,4 @@
-<img width="1597" height="490" alt="image" src="https://github.com/user-attachments/assets/61f6586f-2b86-4873-94d3-599aed554590" />
+<img width="1671" height="514" alt="image" src="https://github.com/user-attachments/assets/7260fe00-e586-478a-ad20-c63ee52be72f" />
 
 ### 📫 Information
 - Nickname : leestana01, turious(트리어스)
